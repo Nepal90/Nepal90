@@ -32,7 +32,7 @@
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nepal90&show_icons=true&theme=radical&count_private=true" />
