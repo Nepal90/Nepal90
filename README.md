@@ -31,3 +31,41 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nexus&show_icons=true&theme=radical&count_private=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+
+
+
+<!-- Light mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=nexus&show_icons=true&theme=default" />
+
+<!-- Dark mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=nexus&show_icons=true&theme=radical" />
+
